@@ -12,7 +12,7 @@ yanjiebin@jxufe.edu.cn
 
 | <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="150" height="150"> | <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" width="150" height="150"> | <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Neel.png" width="150" height="150"> | <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Hezhen.jpg" width="150" height="150"> |
 |----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
-| <span style="line-height: 2.5; font-size: 14px;">**谭湽文** <br> 22级计算机科学与技术硕士生 <br> test</span> | <span style="line-height: 2.5; font-size: 14px;">**饶家乐** <br> 22级计算机技术硕士生 <br> test</span> | <span style="line-height: 2.5; font-size: 14px;">**吴磊** <br> 22级计算机技术硕士生 <br> test</span> | <span style="line-height: 2.5; font-size: 14px;">**test** <br> test <br> test</span> |
+| <span style="line-height: 2; font-size: 14px; padding-top: 10px; padding-bottom: 10px;">**谭湽文** <br> 22级计算机科学与技术硕士生 <br> test</span> | <span style="line-height: 2; font-size: 14px; padding-top: 10px; padding-bottom: 10px;">**饶家乐** <br> 22级计算机技术硕士生 <br> test</span> | <span style="line-height: 2; font-size: 14px; padding-top: 10px; padding-bottom: 10px;">**吴磊** <br> 22级计算机技术硕士生 <br> test</span> | <span style="line-height: 2; font-size: 14px; padding-top: 10px; padding-bottom: 10px;">**test** <br> test <br> test</span> |
 
 
 
