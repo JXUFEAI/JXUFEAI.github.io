@@ -2,15 +2,20 @@
 
 [![YAN-Lab](https://img.shields.io/badge/jxufeai-github-blue?logo=github)](https://github.com/jxufeai)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+#### 个人简介
+江西财经大学 博士，讲师，硕士生导师。
 
-#### Email
-sli[at]cumt.edu.cn
+#### 电子邮箱
+yanjiebin@jxufe.edu.cn 
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 教育经历
+2019年9月至2022年6月，就读于江西财经大学，获工学博士学位，导师：方玉明教授。读博期间也得到了香港城市大学Kede Ma教授的指导.\
+2021年12月至2022年8月，受国家留学基金委资助，在加拿大滑铁卢大学访学，联合培养博士，导师：Zhou Wang教授（加拿大科学院和工程院院士，IEEE Fellow）.\
+2018年6月至2018年12月，就职于美图公司影像技术实验室，任职计算机视觉算法工程师.\
+2020年9月至2021年4月，就职于阿里巴巴公司优酷视频摩酷实验室，任职研究型实习生，导师：李静博士（资深算法工程师）
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 研究方向
+计算机视觉 深度学习 人工智能 多媒体技术
 
+#### 办公地址
+江西财进大学麦庐园校区 大学生活动中心D305 
