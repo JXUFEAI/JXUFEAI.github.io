@@ -10,9 +10,10 @@ yanjiebin@jxufe.edu.cn
 
 #### 小组介绍
 
-| ![成员1](https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg) | ![成员2](https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png) | ![成员3](https://example.com/photo3.jpg) | ![成员4](https://example.com/photo4.jpg) |
+| <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="150" height="150"> | <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" width="150" height="150"> | ![成员3](https://example.com/photo3.jpg) | ![成员4](https://example.com/photo4.jpg) |
 |----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
 | **谭湽文** <br> 22级计算机科学与技术硕士生 <br> test | **饶家乐** <br> 22级计算机技术硕士生 <br> test | **吴磊** <br> 22级计算机技术硕士生 <br> test | **test** <br> test <br> test |
+
 
 
 
