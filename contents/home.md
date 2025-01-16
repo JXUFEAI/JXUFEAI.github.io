@@ -8,51 +8,66 @@
 #### 电子邮箱
 yanjiebin@jxufe.edu.cn 
 
-#### 小组介绍
-
-| <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="150" height="150"> | <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" width="150" height="150"> | ![成员3](https://example.com/photo3.jpg) | ![成员4](https://example.com/photo4.jpg) |
-|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
-| **谭湽文** <br> 22级计算机科学与技术硕士生 <br> test | **饶家乐** <br> 22级计算机技术硕士生 <br> test | **吴磊** <br> 22级计算机技术硕士生 <br> test | **test** <br> test <br> test |
-
 # 团队成员简介
 
-<div class="col-md-3" style="margin-bottom: 40px">
-    <div class="card">
-        <a href="https://jyhong.gitlab.io"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="100%" style="margin:auto"></a>
-        <div class="post-meta">
-            <span class="d-block" style="padding-top:10px"><a href="https://jyhong.gitlab.io">Junyuan Hong</a> <br> Ph.D., Michigan State University, 2023 </span>
-            <span class="d-block"> (Summer 2023 - )</span>
+<div class="col-lg-12" id="people">
+   
+
+    <div class="row justify-content-md-left" style="margin-top: 40px">
+
+        <div class="col-md-3" style="margin-bottom: 40px">
+            <div class="card">
+                <a href="https://jyhong.gitlab.io"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="100%" style="margin:auto"></a>
+                <div class="post-meta">
+                    <span class="d-block" style="padding-top:10px"><a href="https://jyhong.gitlab.io">谭湽文</a> <br> 22级计算机科学与技术硕士生</span>
+                    <span class="d-block"> (2023年夏季 - )</span>
+                </div>
+            </div>
         </div>
+
+        <div class="col-md-3" style="margin-bottom: 40px">
+            <div class="card">
+                <a href="https://medicine.yale.edu/lab/mothes/profile/ziwei-yang/?tab=research"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" width="100%" style="margin:auto"></a>
+                <div class="post-meta">
+                    <span class="d-block" style="padding-top:10px"><a href="https://medicine.yale.edu/lab/mothes/profile/ziwei-yang/?tab=research">饶家乐</a> <br> 22级计算机技术硕士生</span>
+                    <span class="d-block"> (2023年秋季 - )</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3" style="margin-bottom: 40px">
+            <div class="card">
+                <a href="https://neel1302.github.io/"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Neel.png" width="100%" style="margin:auto"></a>
+                <div class="post-meta">
+                    <span class="d-block" style="padding-top:10px"><a href="https://neel1302.github.io/">吴磊</a> <br> 22级计算机技术硕士生</span>
+                    <span class="d-block"> (2023年秋季 - )</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3" style="margin-bottom: 40px">
+            <div class="card">
+                <a href="https://alexhu.top/"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Hezhen.jpg" width="100%" style="margin:auto"></a>
+                <div class="post-meta">
+                    <span class="d-block" style="padding-top:10px"><a href="https://alexhu.top/">何臻</a> <br> 22级计算机技术硕士生</span>
+                    <span class="d-block"> (2023年秋季 - )</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3" style="margin-bottom: 40px">
+            <div class="card">
+                <a href="https://guolanqing.github.io/"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Lanqing.png" width="100%" style="margin:auto"></a>
+                <div class="post-meta">
+                    <span class="d-block" style="padding-top:10px"><a href="https://guolanqing.github.io/">郭兰青</a> <br> 22级计算机技术硕士生</span>
+                    <span class="d-block"> (2024年夏季 - )</span>
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
 
-<div class="col-md-3" style="margin-bottom: 40px">
-    <div class="card">
-        <a href="https://medicine.yale.edu/lab/mothes/profile/ziwei-yang/?tab=research"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" width="100%" style="margin:auto"></a>
-        <div class="post-meta">
-            <span class="d-block" style="padding-top:10px"><a href="https://medicine.yale.edu/lab/mothes/profile/ziwei-yang/?tab=research">Ziwei Yang</a> <br> Ph.D., Yale University, 2023 </span>
-            <span class="d-block"> (Fall 2023 - )</span>
-        </div>
-    </div>
-</div>
-
-<div class="col-md-3" style="margin-bottom: 40px">
-    <div class="card">
-        <a href="https://neel1302.github.io/"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Neel.png" width="100%" style="margin:auto"></a>
-        <div class="post-meta">
-            <span class="d-block" style="padding-top:10px"><a href="https://neel1302.github.io/">Neel P. Bhatt</a> <br> Ph.D., University of Waterloo, 2023. Co-hosting with Prof. Ufuk Topcu (Fall 2023 - ) </span>
-        </div>
-    </div>
-</div>
-
-<div class="col-md-3" style="margin-bottom: 40px">
-    <div class="card">
-        <a href="https://alexhu.top/"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Hezhen.jpg" width="100%" style="margin:auto"></a>
-        <div class="post-meta">
-            <span class="d-block" style="padding-top:10px"><a href="https://alexhu.top/">Hezhen Hu</a> <br> Ph.D., University of Science and Technology of China, 2023 (Fall 2023 - ) </span>
-        </div>
-    </div>
-</div>
 
 
 
