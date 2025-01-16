@@ -10,8 +10,15 @@ yanjiebin@jxufe.edu.cn
 
 # 团队成员简介
 
+<head>
+    <!-- 引用 Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
 <div class="col-lg-12" id="people">
-   
+    <div class="section-title">
+        <h2>团队成员</h2>
+    </div>
 
     <div class="row justify-content-md-left" style="margin-top: 40px">
 
@@ -67,6 +74,7 @@ yanjiebin@jxufe.edu.cn
 
     </div>
 </div>
+
 
 
 
