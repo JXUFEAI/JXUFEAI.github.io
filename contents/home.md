@@ -9,14 +9,27 @@
 yanjiebin@jxufe.edu.cn 
 
 #### 团队成员简介
-
-
-# 团队成员简介
-
 | <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="150" height="150"> | <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" width="150" height="150"> | <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Neel.png" width="150" height="150"> | <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Hezhen.jpg" width="150" height="150"> |
 |----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
 | <span style="line-height: 1.8;">**谭湽文** <br> 22级计算机科学与技术硕士生 <br> test</span> | <span style="line-height: 1.8;">**饶家乐** <br> 22级计算机技术硕士生 <br> test</span> | <span style="line-height: 1.8;">**吴磊** <br> 22级计算机技术硕士生 <br> test</span> | <span style="line-height: 1.8;">**test** <br> test <br> test</span> |
 
+#### 团队成员
+
+<div class="row justify-content-md-left" style="margin-top: 40px">
+
+    <div class="col-md-3" style="margin-bottom: 40px">
+        <div class="card">
+            <a href="https://jyhong.gitlab.io"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="100%" style="margin:auto"></a>
+            <div class="post-meta">
+                <span class="d-block" style="padding-top:10px"><a href="https://jyhong.gitlab.io">谭湽文</a> <br> 22级计算机科学与技术硕士生</span>
+                <span class="d-block"> (2023年夏季 - )</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- 其他成员的 HTML 代码 -->
+
+</div>
 
 
 
