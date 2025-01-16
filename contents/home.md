@@ -16,12 +16,9 @@ yanjiebin\@jxufe.edu.cn
     <span style="line-height: 2.5; font-size: 14px;">谭湽文 <br> 22级计算机科学与技术硕士生 <br> test</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">饶家乐 <br> 22级计算机技术硕士生 <br> test</span></td>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Neel.png" height="150" style="object-fit:cover; width:auto;"><br>
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">吴磊 <br> 22级计算机技术硕士生 <br> test</span></td>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Hezhen.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">test <br> test <br> test</span></td>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/test.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">test1 <br> 22级计算机技术硕士生 <br> test</span></td>
+
   </tr>
   <!-- 第二行 -->
   <tr>
