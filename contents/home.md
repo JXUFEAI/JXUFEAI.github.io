@@ -32,7 +32,7 @@ yanjiebin\@jxufe.edu.cn
     <span style="line-height: 2.5; font-size: 14px;">吴康诚 <br> 23级计算机专硕 <br> test</span></td>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZJY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">张嘉宇 <br> 23级计算机学硕 <br> test</span></td>
-    <td></td> <!-- 空白单元格，用于保持布局 -->
+
   </tr>
     <!-- 第三行 -->
   <tr>
@@ -51,14 +51,14 @@ yanjiebin\@jxufe.edu.cn
     <span style="line-height: 2.5; font-size: 14px;">涂宸宇 <br> 24级计算机学硕 <br> test</span></td>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZX.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">张翔 <br> 24级计算机专硕 <br> test</span></td>
-    <td></td> <!-- 空白单元格，用于保持布局 -->
+
   </tr>
         <!-- 第五行 -->
   <tr>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/test.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">曾丘霖 <br> 24级计算机专硕 <br> test</span></td>
 
-    <td></td> <!-- 空白单元格，用于保持布局 -->
+
   </tr>
 </table>
 </div>
