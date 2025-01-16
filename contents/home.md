@@ -10,14 +10,27 @@ yanjiebin\@jxufe.edu.cn
 
 <div style="overflow-x:auto; padding: 10px;">
 <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
+<!-- 第一行 -->
   <tr>
-    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="150" height="150"><br>
+    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="150" height="200"><br>
     <span style="line-height: 2.5; font-size: 14px;">谭湽文 <br> 22级计算机科学与技术硕士生 <br> test</span></td>
-    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" width="150" height="150"><br>
+    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" width="150" height="200"><br>
     <span style="line-height: 2.5; font-size: 14px;">饶家乐 <br> 22级计算机技术硕士生 <br> test</span></td>
-    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Neel.png" width="150" height="150"><br>
+    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL.jpg" width="150" height="200"><br>
     <span style="line-height: 2.5; font-size: 14px;">吴磊 <br> 22级计算机技术硕士生 <br> test</span></td>
-    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Hezhen.jpg" width="150" height="150"><br>
+
+  </tr>
+  <!-- 第二行 -->
+    <tr>
+    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="150" height="200"><br>
+    <span style="line-height: 2.5; font-size: 14px;">谭湽文 <br> 22级计算机科学与技术硕士生 <br> test</span></td>
+    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" width="150" height="200"><br>
+    <span style="line-height: 2.5; font-size: 14px;">饶家乐 <br> 22级计算机技术硕士生 <br> test</span></td>
+    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL.jpg" width="150" height="200"><br>
+    <span style="line-height: 2.5; font-size: 14px;">吴磊 <br> 22级计算机技术硕士生 <br> test</span></td>
+    <td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Hezhen.jpg" width="150" height="200"><br>
+    <span style="line-height: 2.5; font-size: 14px;">test <br> test <br> test</span></td>
+	<td style="text-align:center; padding: 10px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/Hezhen.jpg" width="150" height="200"><br>
     <span style="line-height: 2.5; font-size: 14px;">test <br> test <br> test</span></td>
   </tr>
 </table>
