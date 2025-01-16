@@ -10,6 +10,11 @@ yanjiebin@jxufe.edu.cn
 
 #### 小组介绍
 
+| ![成员1](https://github.com/JXUFEAI/JXUFEAI.github.io/blob/main/images/TZW.jpg) | ![成员2](https://github.com/JXUFEAI/JXUFEAI.github.io/blob/main/images/RJL.png) | ![成员3](https://example.com/photo3.jpg) | ![成员4](https://example.com/photo4.jpg) |
+|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+| **谭湽文** <br> 22级计算机科学与技术硕士生 <br> test | **饶家乐** <br> 22级计算机技术硕士生 <br> test | **吴磊** <br> 22级计算机技术硕士生 <br> test | **test** <br> test <br> test |
+
+
 
 #### 研究方向
 计算机视觉 深度学习 人工智能 多媒体技术
