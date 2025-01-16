@@ -1,16 +1,15 @@
-
-
 [![YAN-Lab](https://img.shields.io/badge/jxufeai-github-blue?logo=github)](https://github.com/jxufeai)
 
 #### 个人信息
 鄢杰斌，博士，讲师，硕士生导师。2019年9月至2022年6月，就读于江西财经大学，获工学博士学位，导师：方玉明教授。读博期间也得到了香港城市大学Kede Ma教授的指导。2021年12月至2022年8月，受国家留学基金委资助，在加拿大滑铁卢大学访学，联合培养博士，导师：Zhou Wang教授（加拿大科学院和工程院院士，IEEE Fellow）。2018年6月至2018年12月，就职于美图公司影像技术实验室，任职计算机视觉算法工程师。2020年9月至2021年4月，就职于阿里巴巴公司优酷视频摩酷实验室，任职研究型实习生，导师：李静博士（资深算法工程师）
 
 #### 电子邮箱
-yanjiebin\@jxufe.edu.cn 
+yanjiebin\@jxufe.edu.cn
 
 #### 团队成员简介
 
-<table>
+<div style="overflow-x: auto;">
+<table style="width:100%; table-layout: fixed;">
   <tr>
     <td style="text-align:center; padding: 20px; width: 25%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" width="150" height="150"><br>
     <span style="line-height: 2.5; font-size: 14px;">谭湽文 <br> 22级计算机科学与技术硕士生 <br> test</span></td>
@@ -22,12 +21,10 @@ yanjiebin\@jxufe.edu.cn
     <span style="line-height: 2.5; font-size: 14px;">test <br> test <br> test</span></td>
   </tr>
 </table>
-
-
-
+</div>
 
 #### 研究方向
 计算机视觉 深度学习 人工智能 多媒体技术
 
 #### 办公地址
-江西财经大学麦庐园校区 大学生活动中心D305 
+江西财经大学麦庐园校区 大学生活动中心D305
