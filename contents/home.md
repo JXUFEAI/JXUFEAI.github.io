@@ -31,7 +31,7 @@ yanjiebin\@jxufe.edu.cn
     <span style="line-height: 2.5; font-size: 14px;">吴康诚 <br> 23级计算机专硕 <br> 正在施工</span></td>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZJY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">张嘉宇 <br> 23级计算机学硕 <br> 正在施工</span></td>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/正在施工.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZWT.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">祝文涛 <br> 23级计算机专硕 <br> 正在施工</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/JJ.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">蒋佳 <br> 24级计算机专硕 <br> 正在施工</span></td>	
@@ -46,7 +46,7 @@ yanjiebin\@jxufe.edu.cn
     <span style="line-height: 2.5; font-size: 14px;">涂宸宇 <br> 24级计算机学硕 <br> 正在施工</span></td>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZX.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">张翔 <br> 24级计算机专硕 <br> 正在施工</span></td>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/正在施工.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZQL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">曾丘霖 <br> 24级计算机专硕 <br> 正在施工</span></td>
 
   </tr>
