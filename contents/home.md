@@ -12,19 +12,6 @@ yanjiebin\@jxufe.edu.cn
 <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
   <!-- 第一行 -->
   <tr>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">谭湽文 <br> 22级计算机学硕 <br> 正在施工</span></td>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">饶家乐 <br> 22级计算机专硕 <br> 正在施工</span></td>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">吴磊 <br> 22级计算机专硕 <br> 正在施工</span></td>
-	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZF.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">罗喆放 <br> 23级计算机专硕 <br> 正在施工</span></td>
-	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">刘智勇 <br> 23级计算机专硕 <br> 正在施工</span></td>
-  </tr>
-  
-  <tr>
   <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
     <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
@@ -46,7 +33,7 @@ yanjiebin\@jxufe.edu.cn
   <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
     <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZF.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
-      罗喆放 <br> 23级计算机专硕 <br> 正在施工 <br> 正在施工 <br> 正在施工
+      罗喆放 <br> 23级计算机专硕 <br> 1篇国家发明专利 <br> 2024华为杯数学建模国三 <br> 实验室主机赛博华佗
     </span>
   </td>
   <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
