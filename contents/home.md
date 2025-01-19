@@ -23,6 +23,41 @@ yanjiebin\@jxufe.edu.cn
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">刘智勇 <br> 23级计算机专硕 <br> 正在施工</span></td>
   </tr>
+  
+  <tr>
+  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+      谭湽文 <br> 22级计算机学硕 <br> 正在施工
+    </span>
+  </td>
+  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+      饶家乐 <br> 22级计算机专硕 <br> 正在施工
+    </span>
+  </td>
+  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+      吴磊 <br> 22级计算机专硕 <br> 正在施工
+    </span>
+  </td>
+  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZF.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+      罗喆放 <br> 23级计算机专硕 <br> 正在施工 <br> 正在施工 <br> 正在施工
+    </span>
+  </td>
+  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+      刘智勇 <br> 23级计算机专硕 <br> 正在施工
+    </span>
+  </td>
+</tr>
+
+  
   <!-- 第二行 -->
   <tr>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/PZT.jpg" height="150" style="object-fit:cover; width:auto;"><br>
