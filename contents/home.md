@@ -19,7 +19,7 @@ yanjiebin\@jxufe.edu.cn
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">吴磊 <br> 22级计算机专硕 <br> 正在施工</span></td>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZF.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">罗喆放 <br> 23级计算机专硕 <br> 1篇国家发明专利<br>2024研究生华为杯数学建模国家三等奖</span></td>
+    <span style="line-height: 2.5; font-size: 14px;">罗喆放 <br> 23级计算机专硕 <br> 正在施工</span></td>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">刘智勇 <br> 23级计算机专硕 <br> 正在施工</span></td>
   </tr>
