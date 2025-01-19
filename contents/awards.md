@@ -5,7 +5,7 @@
     <tr>
       <td style="text-align:center; padding: 10px; width: 100%;">
         <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/1.jpg" 
-             style="width: 1200px; height: 900px; max-width: 100%; height: auto;">
+             style="width: 600px; height: 450px; max-width: 100%; height: auto;">
         <br>
       </td>
     </tr>
@@ -13,7 +13,7 @@
     <tr>
       <td style="text-align:center; padding: 10px; width: 100%;">
         <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/2.jpg" 
-             style="width: 1200px; height: 900px; max-width: 100%; height: auto;">
+             style="width: 600px; height: 450px; max-width: 100%; height: auto;">
         <br>
       </td>
     </tr>
@@ -21,7 +21,7 @@
     <tr>
       <td style="text-align:center; padding: 10px; width: 100%;">
         <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/3.jpg" 
-             style="width: 1200px; height: 900px; max-width: 100%; height: auto;">
+             style="width: 600px; height: 450px; max-width: 100%; height: auto;">
         <br>
       </td>
     </tr>
