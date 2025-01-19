@@ -6,7 +6,7 @@
 
 - 鄢杰斌， 谭湽文 (硕士研究生)， 吴康诚 (硕士研究生)， 刘学林， 方玉明 (2024). 非视口依赖的抗畸变无参考全景图像质量评价. <strong>中国图象图形学报. </strong> 2024.（已接收）
 
-- Jiebin Yan (鄢杰斌), Lei Wu (硕士研究生), Wenhui Jiang, Chuanlin Liu, Fei Shen (2024). Revisiting the robustness of spatio-temporal modeling in video quality assessment. <strong>Displays, 81，102585 </strong>
+- Jiebin Yan (鄢杰斌), Lei Wu (硕士研究生), Wenhui Jiang, Chuanlin Liu, Fei Shen (2024). Revisiting the robustness of spatio-temporal modeling in video quality assessment. <strong>Displays,81,102585 </strong>
 
 - Junjie Chen, Jiebin Yan (鄢杰斌), Yuming  Fang, Li Niu (2024). Meta-Point Learning and Refining for Category-Agnostic Pose Estimation. <strong>IEEE CVPR. </strong>
 
