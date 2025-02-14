@@ -18,3 +18,5 @@
 - Xuelin Liu, Jiebin Yan (鄢杰斌), Liping Huang, Yuming Fang, Zeng Wan, Yang Liu (2024). Perceptual Quality Assessment of Omnidirectional Images: A Benchmark and Computational Model.  <strong> ACM Transactions on Multimedia Computing, Communications, and Applications. </strong>
 
 - Jiebin Yan (鄢杰斌), Ziwen Tan (硕士研究生), Yuming  Fang, Junjie Chen, Zhou Wang (2024). Omnidirectional image quality captioning: A large-scale database and a new model. <strong> IEEE Transactions on Image Processing. </strong> 
+
+- Jiebin Yan (鄢杰斌), Jiale Rao (硕士研究生), Junjie Chen, Ziwen Tan (硕士研究生), Weide Liu, Yuming Fang (2024). Multitask Auxiliary Network for Perceptual Quality Assessment of Non-Uniformly Distorted Omnidirectional Images. <strong> IEEE Transactions on Circuits and Systems for Video Technology. </strong> [[Code]](https://github.com/RJL2000/MTAOIQA) 
