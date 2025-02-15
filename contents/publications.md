@@ -16,3 +16,5 @@
 - Junjie Chen, Jiebin Yan (鄢杰斌), Yuming  Fang, Li Niu (2024). Meta-Point Learning and Refining for Category-Agnostic Pose Estimation. <strong>IEEE CVPR. </strong>
 
 - Xuelin Liu, Jiebin Yan (鄢杰斌), Liping Huang, Yuming Fang, Zeng Wan, Yang Liu (2024). Perceptual Quality Assessment of Omnidirectional Images: A Benchmark and Computational Model.  <strong> ACM Transactions on Multimedia Computing, Communications, and Applications. </strong>
+
+- Yuming Fang, Zhaoqian Li, Jiebin Yan (鄢杰斌), Xiangjie Sui, Hantao liu (2024). Study of spatio-temporal modeling in video quality assessment.  <strong> IEEE Transactions on Image Processing. </strong>
