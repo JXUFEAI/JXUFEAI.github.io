@@ -27,6 +27,15 @@
         <br>
       </td>
     </tr>
+    <!-- 第四行 -->
+    <tr>
+      <td style="text-align:center; padding: 10px; width: 100%;">
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/5.jpg" 
+             style="width: 800px; height: 600px; max-width: 100%; height: auto;">
+        <br>
+      </td>
+    </tr>
+    <!-- 第五行 -->
   </table>
 </div>
 
