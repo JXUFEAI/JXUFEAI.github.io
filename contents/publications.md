@@ -1,4 +1,10 @@
+- Jiebin Yan (鄢杰斌), Kangcheng Wu (硕士研究生), Junjie Chen, Ziwen Tan (硕士研究生), Yuming Fang, and Weide Liu (2025). Viewport-unaware blind omnidirectional image quality assessment: A flexible and effective paradigm. <strong>ACM Transactions on Multimedia Computing,
+Communications, and Applications.</strong> 
+
 - Jiebin Yan (鄢杰斌), Ziwen Tan (硕士研究生), Yuming  Fang, Junjie Chen, Zhou Wang (2025). Omnidirectional image quality captioning: A large-scale database and a new model. <strong> IEEE Transactions on Image Processing. </strong> 
+
+- Jiebin Yan (鄢杰斌), Ziwen Tan (硕士研究生), Jiale Rao, Lei Wu, Yifan Zuo, and Yuming Fang (2025). Computational analysis of degradation modeling in blind panoramic image quality assessment[J]. <strong>  ACM Transactions on Multimedia Computing, Communications, and
+Applications. </strong> 
 
 - Jiebin Yan (鄢杰斌), Jiale Rao (硕士研究生), Xuelin Liu, Yuming Fang, Yifan Zuo,  Weide Liu (2025). Subjective and Objective Quality Assessment of Non-Uniformly Distorted Omnidirectional Images . <strong> IEEE Transactions on Multimedia. </strong> [[Code]](https://github.com/RJL2000/OIQAND)
 
