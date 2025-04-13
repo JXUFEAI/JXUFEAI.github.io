@@ -71,10 +71,6 @@ yanjiebin\@jxufe.edu.cn
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZQL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">曾丘霖 <br> 24级计算机专硕 <br> 正在施工</span></td>
 
-  <tr>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LXY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">王海鑫 <br> 25级计算机专硕 <br> 正在施工</span></td>
-  </tr>
 	
 	
   
