@@ -25,7 +25,7 @@ yanjiebin\@jxufe.edu.cn
     </span>
   </td>
   <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
-    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL2.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
       吴磊 <br> 22级计算机专硕 <br> 正在施工
     </span>
