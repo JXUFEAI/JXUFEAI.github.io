@@ -81,7 +81,7 @@ yanjiebin\@jxufe.edu.cn
     <span style="line-height: 2.5; font-size: 14px;">万玲 <br> 25级计算机学硕 <br> 正在施工</span></td>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/QYF.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">邱雅菲 <br> 25级计算机专硕 <br> 正在施工</span></td>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZQL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/YM.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">xxx <br> 25级计算机专硕 <br> 正在施工</span></td>
   </tr>
 
