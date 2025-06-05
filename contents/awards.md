@@ -28,6 +28,8 @@
       </td>
     </tr>
     <!-- 第四行 -->
+	</table>
+</div>
 #### 毕业合照（2025）
 
 <div style="overflow-x:auto; padding: 10px;">
