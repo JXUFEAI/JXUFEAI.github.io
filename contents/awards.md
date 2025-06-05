@@ -1,4 +1,5 @@
 
+
 #### 团队梅岭之行（2025）
 <div style="overflow-x:auto; padding: 10px;">
   <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
@@ -33,7 +34,7 @@
   <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
     <tr>
       <td style="text-align:center; padding: 10px; width: 100%;">
-        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/hezhao4.jpg" 
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/hezhao0.jpg" 
              style="width: 800px; height: 600px; max-width: 100%; height: auto;">
         <br>
       </td>
