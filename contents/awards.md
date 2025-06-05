@@ -27,10 +27,10 @@
         <br>
       </td>
     </tr>
-    <!-- 第四行 -->
 	</table>
 </div>
-#### 毕业合照（2025）
+
+#### 团队毕业合照（2025）
 
 <div style="overflow-x:auto; padding: 10px;">
   <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
