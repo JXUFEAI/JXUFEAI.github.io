@@ -13,24 +13,6 @@ yanjiebin\@jxufe.edu.cn
   <!-- 第一行 -->
   <tr>
   <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
-    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
-      谭湽文 <br> 22级计算机学硕 <br> 正在施工
-    </span>
-  </td>
-  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
-    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
-      饶家乐 <br> 22级计算机专硕 <br> 正在施工
-    </span>
-  </td>
-  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
-    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL2.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
-      吴磊 <br> 22级计算机专硕 <br> 正在施工
-    </span>
-  </td>
-  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
     <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZF.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
       罗喆放 <br> 23级计算机专硕 <br> 1篇国家发明专利 <br> 2024华为杯数学建模国三 <br> 实验室主机赛博华佗
@@ -42,51 +24,69 @@ yanjiebin\@jxufe.edu.cn
       刘智勇 <br> 23级计算机专硕 <br> 正在施工
     </span>
   </td>
-</tr>
-
-  
-  <!-- 第二行 -->
-  <tr>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/PZT.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+  <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/PZT.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">彭振团 <br> 23级计算机专硕 <br> 正在施工</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WKC.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">吴康诚 <br> 23级计算机专硕 <br> 正在施工</span></td>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZJY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">张嘉宇 <br> 23级计算机学硕 <br> 正在施工</span></td>
+</tr>
+
+  
+  <!-- 第二行 -->
+  <tr>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZWT.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">祝文涛 <br> 23级计算机专硕 <br> 正在施工</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/JJ.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">蒋佳 <br> 24级计算机专硕 <br> 正在施工</span></td>	
-  </tr>
-    <!-- 第三行 -->
-  <tr>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LXY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LXY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">刘星雨 <br> 24级计算机专硕 <br> 正在施工</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZY2.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">李子怡 <br> 24级计算机专硕 <br> 正在施工</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TCY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">涂宸宇 <br> 24级计算机学硕 <br> 正在施工</span></td>
+  </tr>
+    <!-- 第三行 -->
+  <tr>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZX.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">张祥 <br> 24级计算机专硕 <br> 正在施工</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZQL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">曾丘霖 <br> 24级计算机专硕 <br> 正在施工</span></td>
-  </tr>
-    <!-- 第四行 -->
-  <tr>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WHX.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WHX.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">王海鑫 <br> 25级计算机专硕 <br> 正在施工</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/XXL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">徐晓律 <br> 25级计算机专硕 <br> 正在施工</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">万玲 <br> 25级计算机学硕 <br> 正在施工</span></td>
+  </tr>
+    <!-- 第四行 -->
+  <tr>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/QYF.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">邱雅菲 <br> 25级计算机专硕 <br> 正在施工</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/YM.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">余铭 <br> 25级计算机专硕 <br> 正在施工</span></td>
   </tr>
-
-	
-	
+    <!-- 第五行 -->
+  <tr>
+	<td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+      谭湽文 <br> 22级计算机学硕 <br> 
+    </span>
+  </td>
+  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+      饶家乐 <br> 22级计算机专硕 <br> 
+    </span>
+  </td>
+  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL2.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+      吴磊 <br> 22级计算机专硕 <br> 
+    </span>
+  </td>
+  </tr>
   
 
 </table>
