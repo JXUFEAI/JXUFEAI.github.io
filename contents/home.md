@@ -14,16 +14,10 @@ yanjiebin\@jxufe.edu.cn
   <tr>
   <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
     <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZF.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
-      罗喆放 <br> 23级计算机专硕 <br> 1篇国家发明专利 <br> 2024华为杯数学建模国三 <br> 实验室主机赛博华佗
-    </span>
-  </td>
+    <span style="line-height: 2.5; font-size: 14px;>罗喆放 <br> 23级计算机专硕 <br> 1篇国家发明专利 <br> 2024华为杯数学建模国三 <br> 实验室主机赛博华佗</span></td>
   <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
     <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LZY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
-      刘智勇 <br> 23级计算机专硕 <br> 正在施工
-    </span>
-  </td>
+    <span style="line-height: 2.5; font-size: 14px; >刘智勇 <br> 23级计算机专硕 <br> 正在施工</span></td>
   <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/PZT.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">彭振团 <br> 23级计算机专硕 <br> 正在施工</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WKC.jpg" height="150" style="object-fit:cover; width:auto;"><br>
