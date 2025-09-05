@@ -62,7 +62,14 @@ yanjiebin\@jxufe.edu.cn
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/YM.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">余铭 <br> 25级计算机专硕 <br> 正在施工</span></td>
   </tr>
-    <!-- 第五行 -->
+  </table>
+</div>
+  
+ #### 已毕业成员
+ 
+<div style="overflow-x:auto; padding: 10px;">
+<table style="width: 100%; table-layout: auto; border-spacing: 15px;">
+    <!-- 第一行 -->
   <tr>
 	<td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
     <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" height="150" style="object-fit:cover; width:auto;"><br>
