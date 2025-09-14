@@ -13,9 +13,9 @@ Applications. </strong>
 
 - Jiebin Yan (鄢杰斌), Jiale Rao (硕士研究生), Junjie Chen, Ziwen Tan (硕士研究生), Yuming  Fang (2024). Multitask Auxiliary Network for Perceptual Quality Assessment of Non-Uniformly Distorted Omnidirectional Images. <strong>IEEE Transactions on Circuits and Systems for Video Technology. </strong> [[Code]](https://github.com/RJL2000/MTAOIQA)
 
-- Jiebin Yan (鄢杰斌), Lei Wu (硕士研究生), Yuming Fang, Xuelin Liu, Xue Xia, Weide Liu (2024).  Video Quality Assessment for Online Processing: From Spatial to Temporal Sampling. <strong> IEEE Transactions on Circuits and Systems for Video Technology.</strong> （Accepted）
+- Jiebin Yan (鄢杰斌), Lei Wu (硕士研究生), Yuming Fang, Xuelin Liu, Xue Xia, Weide Liu (2024).  Video Quality Assessment for Online Processing: From Spatial to Temporal Sampling. <strong> IEEE Transactions on Circuits and Systems for Video Technology.</strong>
 
-- 鄢杰斌， 谭湽文 (硕士研究生)， 吴康诚 (硕士研究生)， 刘学林， 方玉明 (2024). 非视口依赖的抗畸变无参考全景图像质量评价. <strong>中国图象图形学报. </strong> 2024.（已接收）
+- 鄢杰斌， 谭湽文 (硕士研究生)， 吴康诚 (硕士研究生)， 刘学林， 方玉明 (2024). 非视口依赖的抗畸变无参考全景图像质量评价. <strong>中国图象图形学报. </strong> 2024.
  
 - Jiebin Yan (鄢杰斌), Lei Wu (硕士研究生), Wenhui Jiang, Chuanlin Liu, Fei Shen (2024). Revisiting the robustness of spatio-temporal modeling in video quality assessment. <strong>Displays,81,102585 </strong>
 
