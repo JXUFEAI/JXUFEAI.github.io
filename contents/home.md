@@ -71,20 +71,27 @@ yanjiebin\@jxufe.edu.cn
   
  #### 已毕业成员
  
-<div style="overflow-x:auto; padding:6px;">
-  <table style="width:100%; border-spacing:10px;">
+<!-- 已毕业成员 -->
+<div style="overflow-x:auto; padding: 10px;">
+  <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
     <tr>
-      <td style="text-align:center; padding:6px; width:20%;">
-        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" height="120" style="object-fit:cover; width:auto;"><br>
-        <span style="font-size:13px; line-height:1.4;">谭湽文<br>22级计算机学硕</span>
+      <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+        <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+          谭湽文 <br> 22级计算机学硕
+        </span>
       </td>
-      <td style="text-align:center; padding:6px; width:20%;">
-        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" height="120" style="object-fit:cover; width:auto;"><br>
-        <span style="font-size:13px; line-height:1.4;">饶家乐<br>22级计算机专硕</span>
+      <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" height="150" style="object-fit:cover; width:auto;"><br>
+        <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+          饶家乐 <br> 22级计算机专硕
+        </span>
       </td>
-      <td style="text-align:center; padding:6px; width:20%;">
-        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL2.jpg" height="120" style="object-fit:cover; width:auto;"><br>
-        <span style="font-size:13px; line-height:1.4;">吴磊<br>22级计算机专硕</span>
+      <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL2.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+        <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+          吴磊 <br> 22级计算机专硕
+        </span>
       </td>
     </tr>
   </table>
