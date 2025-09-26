@@ -93,6 +93,10 @@ yanjiebin\@jxufe.edu.cn
       吴磊 <br> 22级计算机专硕 <br> 
     </span>
   </td>
+  <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/XXL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px;"></span></td>
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px;"></span></td>
   </tr>
   
 
