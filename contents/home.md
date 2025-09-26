@@ -93,6 +93,8 @@ yanjiebin\@jxufe.edu.cn
           吴磊 <br> 22级计算机专硕
         </span>
       </td>
+      <td style="width: 20%;"></td>
+      <td style="width: 20%;"></td>
     </tr>
   </table>
 </div>
