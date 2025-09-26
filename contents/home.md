@@ -75,21 +75,21 @@ yanjiebin\@jxufe.edu.cn
 <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
     <!-- 第一行 -->
   <tr>
-	<td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+	<td style="text-align:center; padding: 10px; width: 20%; ">
     <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/TZW.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+    <span style="line-height: 2.5; font-size: 14px;">
       谭湽文 <br> 22级计算机学硕 <br> 
     </span>
   </td>
-  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+  <td style="text-align:center; padding: 10px; width: 20%;">
     <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RJL.png" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+    <span style="line-height: 2.5; font-size: 14px;">
       饶家乐 <br> 22级计算机专硕 <br> 
     </span>
   </td>
-  <td style="text-align:center; padding: 10px; width: 20%; vertical-align: top;">
+  <td style="text-align:center; padding: 10px; width: 20%;">
     <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL2.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">
+    <span style="line-height: 2.5; font-size: 14px;">
       吴磊 <br> 22级计算机专硕 <br> 
     </span>
   </td>
