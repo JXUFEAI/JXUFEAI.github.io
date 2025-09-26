@@ -1,5 +1,5 @@
 - Jiebin Yan (鄢杰斌), Kangcheng Wu (硕士研究生), Junjie Chen, Ziwen Tan (硕士研究生), Yuming Fang, and Weide Liu (2025). Viewport-unaware blind omnidirectional image quality assessment: A flexible and effective paradigm. <strong>ACM Transactions on Multimedia Computing,
-Communications, and Applications.</strong> 
+Communications, and Applications.</strong> [[Code]](https://github.com/KangchengWu/OIQA)
 
 - Jiebin Yan (鄢杰斌), Ziwen Tan (硕士研究生), Yuming  Fang, Junjie Chen, Zhou Wang (2025). Omnidirectional image quality captioning: A large-scale database and a new model. <strong> IEEE Transactions on Image Processing. </strong> [[Code]](https://github.com/WenJuing/IQCaption360)
 
