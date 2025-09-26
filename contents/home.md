@@ -45,15 +45,15 @@ yanjiebin\@jxufe.edu.cn
     <!-- 第三行 -->
   <tr>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZX.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">张祥 <br> 24级计算机专硕 <br> 正在施工</span></td>
+    <span style="line-height: 2.5; font-size: 14px;">张祥 <br> 24级计算机专硕 </span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZQL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">曾丘霖 <br> 24级计算机专硕 <br> 正在施工</span></td>
+    <span style="line-height: 2.5; font-size: 14px;">曾丘霖 <br> 24级计算机专硕 </span></td>
 	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WHX.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">王海鑫 <br> 25级计算机专硕 <br> 正在施工</span></td>
+    <span style="line-height: 2.5; font-size: 14px;">王海鑫 <br> 25级计算机专硕 </span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/XXL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">徐晓律 <br> 25级计算机专硕 <br> 正在施工</span></td>
+    <span style="line-height: 2.5; font-size: 14px;">徐晓律 <br> 25级计算机专硕 </span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/WL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px;">万玲 <br> 25级计算机学硕 <br> 正在施工</span></td>
+    <span style="line-height: 2.5; font-size: 14px;">万玲 <br> 25级计算机学硕 </span></td>
   </tr>
     <!-- 第四行 -->
   <tr>
