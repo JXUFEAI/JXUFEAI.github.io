@@ -28,3 +28,7 @@ Applications. </strong>
 - YAN Jie-Bin, ZHU Wen-Tao, LIU Xue-Lin, CHEN Jun-Jie, QIAN Feng, FANG Yu-Ming,General Visual Hard Sample Mining Based on Maximum Discrepancy Competition. <strong>Journal of Software</strong>
 
 - 鄢杰斌,彭振团,祝文涛,蔡超,毛阿敏,方玉明.基于难样本挖掘的灰度图像着色模型评估. <strong>软件学报. </strong>2025
+
+- Jiebin Yan, Zhiyong Liu, Junjie Chen, Xiaoyu Xu, Pengfei Chen, Yuming Fang,Viewport-Unaware Full-Reference Omnidirectional Image Quality Assessment with Inter-Patch and Sequence Similarity [[Code]](https://github.com/18liu/IPSS)
+
+- Jiebin Yan, Zhiyong Liu, Zhihua Wang, Yuming Fang, Hantao Liu,Towards Scalable and Efficient Full-Reference Omnidirectional Image Quality Assessment [[Code]](https://github.com/18liu/IPSS2)
