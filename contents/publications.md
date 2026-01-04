@@ -29,6 +29,10 @@ Applications. </strong>
 
 - 鄢杰斌,彭振团,祝文涛,蔡超,毛阿敏,方玉明.基于难样本挖掘的灰度图像着色模型评估. <strong>软件学报. </strong>2025
 
-- Jiebin Yan, Zhiyong Liu, Junjie Chen, Xiaoyu Xu, Pengfei Chen, Yuming Fang,Viewport-Unaware Full-Reference Omnidirectional Image Quality Assessment with Inter-Patch and Sequence Similarity [[Code]](https://github.com/18liu/IPSS)
+- Jiebin Yan, Zhiyong Liu, Junjie Chen, Xiaoyu Xu, Pengfei Chen, Yuming Fang.Viewport-Unaware Full-Reference Omnidirectional Image Quality Assessment with Inter-Patch and Sequence Similarity. <strong>IEEE Transactions on Circuits and Systems for Video Technology.</strong>[[Code]](https://github.com/18liu/IPSS)
 
-- Jiebin Yan, Zhiyong Liu, Zhihua Wang, Yuming Fang, Hantao Liu,Towards Scalable and Efficient Full-Reference Omnidirectional Image Quality Assessment [[Code]](https://github.com/18liu/IPSS2)
+- Jiebin Yan, Zhiyong Liu, Zhihua Wang, Yuming Fang, Hantao Liu.Towards Scalable and Efficient Full-Reference Omnidirectional Image Quality Assessment.<strong>IEEE Signal Processing Letters.</strong>[[Code]](https://github.com/18liu/IPSS2)
+
+- Jiebin Yan,Jiayu Zhang,Junjie Chen,Pengfei Chen,Xuelin Liu,Ziwen Tan,Yuming Fang.Blind Omnidirectional Image Quality Assessment: Embracing the Magic Power of Multimodal Large Language Models.<strong>International Journal of Computer Vision（IJCV）.</strong>
+
+- Jiebin Yan, Kangcheng Wu, Jingwen Hou, Jiayu Zhang, Pengfei Chen, Yuming Fang.Viewport-Unaware Blind Omnidirectional Image Quality Assessment: A Unified and Generalized Approach. <strong>IEEE Transactions on Multimedia.</strong>
