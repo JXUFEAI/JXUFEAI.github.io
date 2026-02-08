@@ -1,4 +1,33 @@
 
+#### 团队梅岭之行（2026）
+<div style="overflow-x:auto; padding: 10px;">
+  <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
+    <!-- 第一行 -->
+    <tr>
+      <td style="text-align:center; padding: 10px; width: 100%;">
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/Team_begin.jpg" 
+             style="width: 800px; height: 600px; max-width: 100%; height: auto;">
+        <br>
+      </td>
+    </tr>
+    <!-- 第二行 -->
+    <tr>
+      <td style="text-align:center; padding: 10px; width: 100%;">
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/Team_mid.jpg" 
+             style="width: 800px; height: 600px; max-width: 100%; height: auto;">
+        <br>
+      </td>
+    </tr>
+    <!-- 第三行 -->
+    <tr>
+      <td style="text-align:center; padding: 10px; width: 100%;">
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/Team_up.jpg" 
+             style="width: 800px; height: 600px; max-width: 100%; height: auto;">
+        <br>
+      </td>
+    </tr>
+	</table>
+</div>
 
 #### 团队梅岭之行（2025）
 <div style="overflow-x:auto; padding: 10px;">
