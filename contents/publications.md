@@ -2,6 +2,8 @@
 
 - Jiebin Yan,Jiayu Zhang(研究生),Junjie Chen,Pengfei Chen,Xuelin Liu,Ziwen Tan,Yuming Fang（2026）.Blind Omnidirectional Image Quality Assessment: Embracing the Magic Power of Multimodal Large Language Models.<strong>International Journal of Computer Vision（IJCV）.</strong>
 
+- 鄢杰斌,彭振团,祝文涛,蔡超,毛阿敏,方玉明（2026）.基于难样本挖掘的灰度图像着色模型评估. <strong>软件学报. </strong>
+
 - Jiebin Yan, Zhiyong Liu(研究生), Zhihua Wang, Yuming Fang, Hantao Liu（2025）.Towards Scalable and Efficient Full-Reference Omnidirectional Image Quality Assessment.<strong>IEEE Signal Processing Letters.</strong>[[Code]](https://github.com/18liu/IPSS2)
 
 - Jiebin Yan, Kangcheng Wu(研究生), Jingwen Hou, Jiayu Zhang(研究生), Pengfei Chen, Yuming Fang（2025）.Viewport-Unaware Blind Omnidirectional Image Quality Assessment: A Unified and Generalized Approach. <strong>IEEE Transactions on Multimedia.</strong>
@@ -18,9 +20,7 @@ Applications. </strong>
 
 - Jiebin Yan (鄢杰斌), Ziwen Tan (研究生), Yuming  Fang, Jiale Rao (研究生), Yifan Zuo (2025). Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention. <strong>Pattern Recognition. </strong> [[Code]](https://github.com/WenJuing/Max360IQ)
 
-- Jiebin Yan (鄢杰斌), Wentao Zhu(研究生), Xuelin Liu, Junjie Chen, Feng Qian, Yuming Fang(2025),General Visual Hard Sample Mining Based on Maximum Discrepancy Competition. <strong>Journal of Software</strong>
-
-- 鄢杰斌,彭振团,祝文涛,蔡超,毛阿敏,方玉明.基于难样本挖掘的灰度图像着色模型评估. <strong>软件学报. </strong>
+- 鄢杰斌，祝文涛，刘学林，陈俊杰，钱峰，方玉明(2025),基于最大差异化竞争的通用视觉难样本挖掘. <strong>软件学报</strong>
 
 - Jiebin Yan (鄢杰斌), Jiale Rao (研究生), Junjie Chen, Ziwen Tan (研究生), Yuming  Fang (2024). Multitask Auxiliary Network for Perceptual Quality Assessment of Non-Uniformly Distorted Omnidirectional Images. <strong>IEEE Transactions on Circuits and Systems for Video Technology. </strong> [[Code]](https://github.com/RJL2000/MTAOIQA)
 
