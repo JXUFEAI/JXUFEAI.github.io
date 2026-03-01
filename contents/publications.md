@@ -1,34 +1,34 @@
-- Jiebin Yan, Zhiyong Liu, Junjie Chen, Xiaoyu Xu, Pengfei Chen, Yuming Fang（2026）.Viewport-Unaware Full-Reference Omnidirectional Image Quality Assessment with Inter-Patch and Sequence Similarity. <strong>IEEE Transactions on Circuits and Systems for Video Technology.</strong>[[Code]](https://github.com/18liu/IPSS)
+- Jiebin Yan, Zhiyong Liu(研究生), Junjie Chen, Xiaoyu Xu, Pengfei Chen, Yuming Fang（2026）.Viewport-Unaware Full-Reference Omnidirectional Image Quality Assessment with Inter-Patch and Sequence Similarity. <strong>IEEE Transactions on Circuits and Systems for Video Technology.</strong>[[Code]](https://github.com/18liu/IPSS)
 
-- Jiebin Yan,Jiayu Zhang,Junjie Chen,Pengfei Chen,Xuelin Liu,Ziwen Tan,Yuming Fang（2026）.Blind Omnidirectional Image Quality Assessment: Embracing the Magic Power of Multimodal Large Language Models.<strong>International Journal of Computer Vision（IJCV）.</strong>
+- Jiebin Yan,Jiayu Zhang(研究生),Junjie Chen,Pengfei Chen,Xuelin Liu,Ziwen Tan,Yuming Fang（2026）.Blind Omnidirectional Image Quality Assessment: Embracing the Magic Power of Multimodal Large Language Models.<strong>International Journal of Computer Vision（IJCV）.</strong>
 
-- Jiebin Yan, Zhiyong Liu, Zhihua Wang, Yuming Fang, Hantao Liu（2025）.Towards Scalable and Efficient Full-Reference Omnidirectional Image Quality Assessment.<strong>IEEE Signal Processing Letters.</strong>[[Code]](https://github.com/18liu/IPSS2)
+- Jiebin Yan, Zhiyong Liu(研究生), Zhihua Wang, Yuming Fang, Hantao Liu（2025）.Towards Scalable and Efficient Full-Reference Omnidirectional Image Quality Assessment.<strong>IEEE Signal Processing Letters.</strong>[[Code]](https://github.com/18liu/IPSS2)
 
-- Jiebin Yan, Kangcheng Wu, Jingwen Hou, Jiayu Zhang, Pengfei Chen, Yuming Fang（2025）.Viewport-Unaware Blind Omnidirectional Image Quality Assessment: A Unified and Generalized Approach. <strong>IEEE Transactions on Multimedia.</strong>
+- Jiebin Yan, Kangcheng Wu(研究生), Jingwen Hou, Jiayu Zhang(研究生), Pengfei Chen, Yuming Fang（2025）.Viewport-Unaware Blind Omnidirectional Image Quality Assessment: A Unified and Generalized Approach. <strong>IEEE Transactions on Multimedia.</strong>
 
-- Jiebin Yan (鄢杰斌), Kangcheng Wu (硕士研究生), Junjie Chen, Ziwen Tan (硕士研究生), Yuming Fang, and Weide Liu (2025). Viewport-unaware blind omnidirectional image quality assessment: A flexible and effective paradigm. <strong>ACM Transactions on Multimedia Computing,
+- Jiebin Yan (鄢杰斌), Kangcheng Wu (研究生), Junjie Chen, Ziwen Tan (研究生), Yuming Fang, and Weide Liu (2025). Viewport-unaware blind omnidirectional image quality assessment: A flexible and effective paradigm. <strong>ACM Transactions on Multimedia Computing,
 Communications, and Applications.</strong> [[Code]](https://github.com/KangchengWu/OIQA)
 
-- Jiebin Yan (鄢杰斌), Ziwen Tan (硕士研究生), Yuming  Fang, Junjie Chen, Zhou Wang (2025). Omnidirectional image quality captioning: A large-scale database and a new model. <strong> IEEE Transactions on Image Processing. </strong> [[Code]](https://github.com/WenJuing/IQCaption360)
+- Jiebin Yan (鄢杰斌), Ziwen Tan (研究生), Yuming  Fang, Junjie Chen, Zhou Wang (2025). Omnidirectional image quality captioning: A large-scale database and a new model. <strong> IEEE Transactions on Image Processing. </strong> [[Code]](https://github.com/WenJuing/IQCaption360)
 
-- Jiebin Yan (鄢杰斌), Ziwen Tan (硕士研究生), Jiale Rao, Lei Wu, Yifan Zuo, and Yuming Fang (2025). Computational analysis of degradation modeling in blind panoramic image quality assessment[J]. <strong>  ACM Transactions on Multimedia Computing, Communications, and
+- Jiebin Yan (鄢杰斌), Ziwen Tan (研究生), Jiale Rao(研究生), Lei Wu(研究生), Yifan Zuo, and Yuming Fang (2025). Computational analysis of degradation modeling in blind panoramic image quality assessment[J]. <strong>  ACM Transactions on Multimedia Computing, Communications, and
 Applications. </strong> 
 
-- Jiebin Yan (鄢杰斌), Jiale Rao (硕士研究生), Xuelin Liu, Yuming Fang, Yifan Zuo,  Weide Liu (2025). Subjective and Objective Quality Assessment of Non-Uniformly Distorted Omnidirectional Images . <strong> IEEE Transactions on Multimedia. </strong> [[Code]](https://github.com/RJL2000/OIQAND)
+- Jiebin Yan (鄢杰斌), Jiale Rao (研究生), Xuelin Liu, Yuming Fang, Yifan Zuo,  Weide Liu (2025). Subjective and Objective Quality Assessment of Non-Uniformly Distorted Omnidirectional Images . <strong> IEEE Transactions on Multimedia. </strong> [[Code]](https://github.com/RJL2000/OIQAND)
 
-- Jiebin Yan (鄢杰斌), Ziwen Tan (硕士研究生), Yuming  Fang, Jiale Rao (硕士研究生), Yifan Zuo (2025). Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention. <strong>Pattern Recognition. </strong> [[Code]](https://github.com/WenJuing/Max360IQ)
+- Jiebin Yan (鄢杰斌), Ziwen Tan (研究生), Yuming  Fang, Jiale Rao (研究生), Yifan Zuo (2025). Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention. <strong>Pattern Recognition. </strong> [[Code]](https://github.com/WenJuing/Max360IQ)
 
-- Jiebin Yan (鄢杰斌), Wentao Zhu, Xuelin Liu, Junjie Chen, Feng Qian, Yuming Fang(2025),General Visual Hard Sample Mining Based on Maximum Discrepancy Competition. <strong>Journal of Software</strong>
+- Jiebin Yan (鄢杰斌), Wentao Zhu(研究生), Xuelin Liu, Junjie Chen, Feng Qian, Yuming Fang(2025),General Visual Hard Sample Mining Based on Maximum Discrepancy Competition. <strong>Journal of Software</strong>
 
 - 鄢杰斌,彭振团,祝文涛,蔡超,毛阿敏,方玉明.基于难样本挖掘的灰度图像着色模型评估. <strong>软件学报. </strong>
 
-- Jiebin Yan (鄢杰斌), Jiale Rao (硕士研究生), Junjie Chen, Ziwen Tan (硕士研究生), Yuming  Fang (2024). Multitask Auxiliary Network for Perceptual Quality Assessment of Non-Uniformly Distorted Omnidirectional Images. <strong>IEEE Transactions on Circuits and Systems for Video Technology. </strong> [[Code]](https://github.com/RJL2000/MTAOIQA)
+- Jiebin Yan (鄢杰斌), Jiale Rao (研究生), Junjie Chen, Ziwen Tan (研究生), Yuming  Fang (2024). Multitask Auxiliary Network for Perceptual Quality Assessment of Non-Uniformly Distorted Omnidirectional Images. <strong>IEEE Transactions on Circuits and Systems for Video Technology. </strong> [[Code]](https://github.com/RJL2000/MTAOIQA)
 
-- Jiebin Yan (鄢杰斌), Lei Wu (硕士研究生), Yuming Fang, Xuelin Liu, Xue Xia, Weide Liu (2024).  Video Quality Assessment for Online Processing: From Spatial to Temporal Sampling. <strong> IEEE Transactions on Circuits and Systems for Video Technology.</strong>
+- Jiebin Yan (鄢杰斌), Lei Wu (研究生), Yuming Fang, Xuelin Liu, Xue Xia, Weide Liu (2024).  Video Quality Assessment for Online Processing: From Spatial to Temporal Sampling. <strong> IEEE Transactions on Circuits and Systems for Video Technology.</strong>
 
-- 鄢杰斌， 谭湽文 (硕士研究生)， 吴康诚 (硕士研究生)， 刘学林， 方玉明 (2024). 非视口依赖的抗畸变无参考全景图像质量评价. <strong>中国图象图形学报. </strong> 
+- 鄢杰斌， 谭湽文 (研究生)， 吴康诚 (研究生)， 刘学林， 方玉明 (2024). 非视口依赖的抗畸变无参考全景图像质量评价. <strong>中国图象图形学报. </strong> 
  
-- Jiebin Yan (鄢杰斌), Lei Wu (硕士研究生), Wenhui Jiang, Chuanlin Liu, Fei Shen (2024). Revisiting the robustness of spatio-temporal modeling in video quality assessment. 
+- Jiebin Yan (鄢杰斌), Lei Wu (研究生), Wenhui Jiang, Chuanlin Liu, Fei Shen (2024). Revisiting the robustness of spatio-temporal modeling in video quality assessment. 
 
 - Junjie Chen, Jiebin Yan (鄢杰斌), Yuming  Fang, Li Niu (2024). Meta-Point Learning and Refining for Category-Agnostic Pose Estimation. <strong>IEEE CVPR. </strong>
 
