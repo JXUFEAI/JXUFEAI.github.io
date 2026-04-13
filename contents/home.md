@@ -74,7 +74,16 @@ yanjiebin\@jxufe.edu.cn
     <span style="line-height: 2.5; font-size: 14px;">田彬 <br> 25级计算机专硕</span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/QGH.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px;">邱广华 <br> 25级计算机专硕</span></td>
+	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/CSL.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px;">池圣岚 <br> 26级计算机专硕</span></td>
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/LYY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px;">李煜阳 <br> 26级计算机专硕</span></td>
+	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/CY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px;">陈钰 <br> 26级计算机专硕</span></td>
   </tr>
+   <!-- 第五行 -->
+   <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/XBH.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px;">薛博豪 <br> 26级计算机专硕</span></td>
   </table>
 </div>
   
