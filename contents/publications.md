@@ -109,7 +109,7 @@
 
 * **Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention** <br>
   Jiebin Yan (鄢杰斌), Ziwen Tan (研究生), Yuming Fang, Jiale Rao (研究生), Yifan Zuo <br>
-  *Pattern Recognition* (**PR**), 2025. <br>
+  *Pattern Recognition* 2025. <br>
   [[Code]](https://github.com/WenJuing/Max360IQ)
 
 ### 2024
@@ -128,7 +128,7 @@
 
 * **Revisiting the robustness of spatio-temporal modeling in video quality assessment** <br>
   Jiebin Yan (鄢杰斌), Lei Wu (研究生), Wenhui Jiang, Chuanlin Liu, Fei Shen <br>
-  2024.
+  *Displays*,2024.
 
 * **Meta-Point Learning and Refining for Category-Agnostic Pose Estimation** <br>
   Junjie Chen, Jiebin Yan (鄢杰斌), Yuming Fang, Li Niu <br>
@@ -141,3 +141,58 @@
 * **Study of spatio-temporal modeling in video quality assessment** <br>
   Yuming Fang, Zhaoqian Li, Jiebin Yan (鄢杰斌), Xiangjie Sui, Hantao liu <br>
   *IEEE Transactions on Image Processing* (**TIP**), 2024.
+
+
+ ### 2023
+* **A2 GSTran: Depth Map Super-Resolution via Asymmetric Attention With Guidance Selection** <br>
+  Yifan Zuo, Yaping Xu, Yifeng Zeng, Yuming Fang, Xiaoshui Huang, Jiebin Yan <br>
+  *IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2023.
+
+* **A quality-of-experience database for adaptive omnidirectional video streaming** <br>
+  Xuelin Liu, Jiebin Yan, Zheng Wan, Yuming Fang, Zhou Wang <br>
+  *IEEE Journal of Selected Topics in Signal Processing* (**JSTSP**), 2023.
+
+* **视频质量评价研究综述** <br>
+  鄢杰斌, 方玉明, 刘学林, 姚怡茹, 眭相杰 <br>
+  *计算机学报*, 2023.
+
+* **Study of spatio-temporal modeling in video quality assessment** <br>
+  Yuming Fang, Zhaoqian Li, Jiebin Yan, Xiangjie Sui, Hantao Liu <br>
+  *IEEE Transactions on Image Processing* (**TIP**), 2023.
+
+* **UDNet: Uncertainty-aware deep network for salient object detection** <br>
+  Yuming Fang, Haiyan Zhang, Jiebin Yan, Wenhui Jiang, Yang Liu <br>
+  *Pattern Recognition* , 2023.
+
+* **A survey on recent advances in video quality assessment** <br>
+  Jiebin Yan, Yuming Fang, Xuelin Liu, Yiru Yao, Xiangjie Sui <br>
+  *Chinese Journal of Computers*, 2023.
+ 
+ ### 2022
+* **Bilinear CNNs for blind quality assessment of fine-grained images** <br>
+  Lixia Liu, Jiebin Yan, Yuming Fang, Wenhui Jiang <br>
+  *2022 IEEE 24th International Workshop on Multimedia Signal Processing* (**MMSP**), 2022.
+
+* **Evaluating the Robustness of Depth Image Super-Resolution Models** <br>
+  Dengxiang Wang, Jiebin Yan, Xuelin Liu, Yifan Zuo <br>
+  *2022 IEEE 24th International Workshop on Multimedia Signal Processing* (**MMSP**), 2022.
+
+* **Benchmarking 360° saliency models by general-purpose metrics** <br>
+  Guanchen Li, Xiangjie Sui, Jiebin Yan, Yuming Fang <br>
+  *2022 IEEE 24th International Workshop on Multimedia Signal Processing* (**MMSP**), 2022.
+
+* **Perceptual quality assessment of omnidirectional images** <br>
+  Yuming Fang, Liping Huang, Jiebin Yan, Xuelin Liu, Yang Liu <br>
+  *Proceedings of the AAAI Conference on Artificial Intelligence* (**AAAI**), 2022.
+
+* **Subjective and objective quality of experience of free viewpoint videos** <br>
+  Jiebin Yan, Jing Li, Yuming Fang, Zhaohui Che, Xue Xia, Yang Liu <br>
+  *IEEE Transactions on Image Processing* (**TIP**), 2022.
+
+* **图像质量评价研究综述-从失真的角度** <br>
+  鄢杰斌, 方玉明, 刘学林 <br>
+  *中国图象图形学报 *, 2022.
+
+* **聚合细粒度特征的深度注意力自动裁图** <br>
+  方玉明, 钟裕, 鄢杰斌, 刘丽霞 <br>
+  *中国图象图形学报*, 2022.
