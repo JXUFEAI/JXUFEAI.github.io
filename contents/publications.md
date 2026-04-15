@@ -111,6 +111,14 @@
   Jiebin Yan (鄢杰斌), Ziwen Tan (研究生), Yuming Fang, Jiale Rao (研究生), Yifan Zuo <br>
   *Pattern Recognition* 2025. <br>
   [[Code]](https://github.com/WenJuing/Max360IQ)
+ 
+* **Opinion-unaware blind quality assessment of AI-generated omnidirectional images based on deep feature statistics** <br>
+  Xuelin Liu, Jiebin Yan, Yuming Fang, Jingwen Hou <br>
+  *Journal of Visual Communication and Image Representation* (**JVCIR**), 2025.
+
+* **Diffusion-based facial aesthetics enhancement with 3d structure guidance** <br>
+  Lisha Li, Jingwen Hou, Weide Liu, Yuming Fang, Jiebin Yan <br>
+  *IEEE Transactions on Image Processing* (**TIP**), 2025.
 
 ### 2024
 * **Multitask Auxiliary Network for Perceptual Quality Assessment of Non-Uniformly Distorted Omnidirectional Images** <br>
@@ -141,6 +149,26 @@
 * **Study of spatio-temporal modeling in video quality assessment** <br>
   Yuming Fang, Zhaoqian Li, Jiebin Yan (鄢杰斌), Xiangjie Sui, Hantao liu <br>
   *IEEE Transactions on Image Processing* (**TIP**), 2024.
+  
+* **Quality of Experience of Viewport Adaptive Omnidirectional Video Streaming** <br>
+  Xuelin Liu, Haoyun Zhang, Jiebin Yan, Hao Zhang, Yuming Fang, Shiqi Wang <br>
+  *2024 IEEE International Conference on Image Processing* (**ICIP**), 2024.
+
+* **A foreground-context dual-guided network for light-field salient object detection** <br>
+  Xin Zheng, Boyang Wang, Deyang Liu, Chengtao Lv, Jiebin Yan, Ping An <br>
+  *Signal Processing: Image Communication*, 2024.
+
+* **Uncertainty Awareness for Unsupervised Domain Adaptation on Human Activity Recognition** <br>
+  Weide Liu, Xiaoyang Zhong, Lu Wang, Jingwen Hou, Yuemei Luo, Jiebin Yan, Yuming Fang <br>
+  *International Joint Conference on Artificial Intelligence* (**IJCAI**), 2024.
+
+* **Saliency guided deep neural network for color transfer with light optimization** <br>
+  Yuming Fang, Pengwei Yuan, Chenlei Lv, Chen Peng, Jiebin Yan, Weisi Lin <br>
+  *IEEE Transactions on Image Processing* (**TIP**), 2024.
+
+* **Blind quality assessment of panoramic images based on multiple viewport sequences** <br>
+  Xuelin Liu, Jiebin Yan, Zheng Wan, Yuming Fang, Hantao Liu <br>
+  *2024 IEEE International Symposium on Circuits and Systems* (**ISCAS**), 2024.
 
 
  ### 2023
