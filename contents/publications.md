@@ -25,6 +25,8 @@
 * **Viewport-Unaware Blind Omnidirectional Image Quality Assessment: A Unified and Generalized Approach** <br>
   Jiebin Yan, Kangcheng Wu(研究生), Jingwen Hou, Jiayu Zhang(研究生), Pengfei Chen, Yuming Fang <br>
   *IEEE Transactions on Multimedia* (**TMM**), 2026.
+  [[Code]](https://github.com/KangchengWu/VUGA)
+  [[arXiv]](https://arxiv.org/abs/2604.23953)
 
 * **Objective Quality Assessment of AI-Generated Content Videos with Transformation Consistency Focus** <br>
   Xiaoyu Xu, Lei Wu(研究生), Jiebin Yan, Yuming Fang <br>
