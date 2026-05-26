@@ -4,14 +4,14 @@
   <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
     <tr>
       <td style="text-align:center; padding: 10px; width: 100%;">
-        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/26hezhao.jpg" 
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/26hezhao.JPG" 
              style="width: 800px; height: 600px; max-width: 100%; height: auto;">
         <br>
       </td>
     </tr>
 	<tr>
       <td style="text-align:center; padding: 10px; width: 100%;">
-        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/biye26.jpg" 
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/biye26.JPG" 
              style="width: 800px; height: 600px; max-width: 100%; height: auto;">
         <br>
       </td>
