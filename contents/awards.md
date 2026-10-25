@@ -1,3 +1,23 @@
+#### 团队组会照片
+<div style="overflow-x:auto; padding: 10px;">
+  <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
+    <tr>
+      <td style="text-align:center; padding: 10px; width: 100%;">
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/groupmeeting.jpg" 
+             style="width: 800px; height: 600px; max-width: 100%; height: auto;">
+        <br>
+      </td>
+    </tr>
+	<tr>
+      <td style="text-align:center; padding: 10px; width: 100%;">
+        <img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/activitiesphotos/group%20meeting1.jpg" 
+             style="width: 800px; height: 600px; max-width: 100%; height: auto;">
+        <br>
+      </td>
+    </tr>
+  </table>
+</div>
+
 #### 团队毕业合照（2026）
 
 <div style="overflow-x:auto; padding: 10px;">
