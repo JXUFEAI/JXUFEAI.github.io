@@ -156,7 +156,7 @@ yanjiebin\@jxufe.edu.cn
 <table style="width: 100%; table-layout: auto; border-spacing: 15px;">
   <!-- 第一行 -->
   <tr>
-    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZQY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZQY.jpg" height="150" style="object-fit:cover; height:150px; width:100%; "><br>
     <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">邹清宇 <br> 25级人工智能</span></td>  
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/HS.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">贺帅 <br> 24级计算机科学与技术 </span></td>
