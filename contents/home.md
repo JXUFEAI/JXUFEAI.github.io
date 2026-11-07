@@ -94,8 +94,8 @@ yanjiebin\@jxufe.edu.cn
     <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">陈周煦<br> 25级计算机科学与技术 </span></td>
     <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RSW1.jpg" height="150" style="object-fit:cover; width:auto;"><br>
     <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">任思危<br> 25级信息管理与信息系统 </span></td>
-	<td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/" height="150" style="object-fit:cover; width:auto;"><br>
-    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;"><br></span></td>
+	<td style="text-align:center; padding: 10px; width: 20%;"><!-- <img src="" height="150" style="object-fit:cover; width:auto;"> --><br>
+	<span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;"><br></span></td>
   </tr>
 </table>
 </div>
