@@ -150,6 +150,22 @@ yanjiebin\@jxufe.edu.cn
 </div>
 
 
+#### 团队本科生成员简介
+
+<div style="overflow-x:auto; padding: 10px;">
+<table style="width: 100%; table-layout: auto; border-spacing: 15px;">
+  <!-- 第一行 -->
+  <tr>
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/ZQY.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">邹清宇 <br> 25级人工智能</span></td>  
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/HS.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">贺帅 <br> 24级计算机科学与技术 </span></td>
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/CZX.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">陈周煦<br> 25级计算机科学与技术 </span></td>
+    <td style="text-align:center; padding: 10px; width: 20%;"><img src="https://raw.githubusercontent.com/JXUFEAI/JXUFEAI.github.io/main/images/RSW1.jpg" height="150" style="object-fit:cover; width:auto;"><br>
+    <span style="line-height: 2.5; font-size: 14px; display: inline-block; margin-top: 20px;">任思危<br> 25级信息管理与信息系统 </span></td>
+  </tr>
+
 #### 研究方向
 计算机视觉 深度学习 人工智能 多媒体技术
 
